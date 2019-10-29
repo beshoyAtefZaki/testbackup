@@ -1,0 +1,13 @@
+{
+ "db_name": "1bd3e0294da19198", 
+ "db_password": "VpX1JJNKputV2VJl", 
+ "encryption_key": "Z6i9yzbiEgHw8evMLgwwQr5Ztuc6ldnXdk2vyHdThhw=", 
+ "limits": {
+  "space_usage": {
+   "backup_size": 352.0, 
+   "database_size": 218.57, 
+   "files_size": 178.0, 
+   "total": 748.57
+  }
+ }
+}
